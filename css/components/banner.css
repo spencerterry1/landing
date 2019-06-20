@@ -1,0 +1,42 @@
+.banner  {
+  background-image: cover;
+  height: 600px;
+  margin: 0 auto;
+  align-content: center;
+  padding-left: 50px;
+}
+
+#banner-content {
+  color: white;
+  padding-top: 200px;
+}
+
+#banner-content h1 {
+  padding: 10px;
+  font-weight: bold;
+}
+
+#banner-content p {
+  color: #A4A4A4;
+  font-size: 20px;
+  padding-bottom: 12px;
+}
+
+.button {
+  background-color: #3BDD88;
+  font-size: 16px;
+  border-radius: 30px;
+  content: 200px;
+  border: 0;
+  color: white;
+  padding: 25px;
+
+}
+
+.banner a {
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
